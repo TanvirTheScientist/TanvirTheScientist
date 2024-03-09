@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning data scientist
 - 💞️ I’m looking to collaborate on data scientist
 - 📫 How to reach me https://www.linkedin.com/in/tanvirranjum/
-- 😄 Pronouns: Tanvir
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: Productive
 
 <!---
